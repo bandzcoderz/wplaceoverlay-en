@@ -65,4 +65,4 @@ Done! The script will activate automatically when you visit `wplace.live`.
 This project is open-source and distributed under the MIT License.
 
 ## Remember
-The english version is named Wplace Overlay-1.4.user_ENGLISH_TRANSLATION.js
+The english version is named the same as the old one, you need to delete the old one first, then you can download and add the new one. Enjoy.
