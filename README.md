@@ -4,7 +4,7 @@ A user script (Tampermonkey/Greasemonkey) that enhances the experience on the `w
 
 All settings, including the image, are saved locally in your browser so you don’t need to reconfigure everything on each visit.
 
-![Example of the script interface on the wplace.live screen](https://i.imgur.com/DaCfs9Q.png)
+![Example of the script interface on the wplace.live screen](https://imgur.com/a/W3DzMMr)
 
 ## ✨ Features
 
