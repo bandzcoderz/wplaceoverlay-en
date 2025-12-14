@@ -1,4 +1,4 @@
-# Wplace Overlay Script
+# Wplace Overlay Script English Translation 🇺🇸🇬🇧
 
 A user script (Tampermonkey/Greasemonkey) that enhances the experience on the `wplace.live` website by allowing a custom image overlay on the screen. With this script, you can load a template, adjust its position, size, opacity, and blend mode, making collaborative art creation easier.
 
