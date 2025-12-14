@@ -57,7 +57,11 @@ Done! The script will activate automatically when you visit `wplace.live`.
 ## ✍️ Author
 
 - **FrodoCompacto** - [GitHub](https://github.com/FrodoCompacto)
+- @bandzcoderz Github - translation via Apple Translation, manual coded
 
 ## 📜 License
 
 This project is open-source and distributed under the MIT License.
+
+## Remember
+The english version is named Wplace Overlay-1.4.user_ENGLISH_TRANSLATION.js
